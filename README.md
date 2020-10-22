@@ -1,5 +1,6 @@
 # Kumpulan Rekapan Nilai Siswa
 
+Klik Tulisan Biru Untuk Melihat Nilai
 
 ### RPL
 - [XI-PBO-RPL](https://docs.google.com/spreadsheets/d/1iKYczebi5EYg0PM3OGmuz3y3ZYG87QfnygyiSz2rNlc/edit?usp=sharing)
