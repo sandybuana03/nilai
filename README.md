@@ -3,9 +3,9 @@
 Klik Tulisan Biru Untuk Melihat Nilai
 
 ### RPL
-- [XI-PBO-RPL](https://docs.google.com/spreadsheets/d/1iKYczebi5EYg0PM3OGmuz3y3ZYG87QfnygyiSz2rNlc/edit?usp=sharing) (update 22-10-2020)
-- [XII-PBO-RPL](https://docs.google.com/spreadsheets/d/1i-QMnPNmoNvLd1bsb6jU5kAQ_kJtepMKN410c3KZDPI/edit?usp=sharing) (update 22-10-2020)
+- [XI-PBO-RPL](https://docs.google.com/spreadsheets/d/1iKYczebi5EYg0PM3OGmuz3y3ZYG87QfnygyiSz2rNlc/edit?usp=sharing) (22-10-2020)
+- [XII-PBO-RPL](https://docs.google.com/spreadsheets/d/1i-QMnPNmoNvLd1bsb6jU5kAQ_kJtepMKN410c3KZDPI/edit?usp=sharing) (22-10-2020)
 
 ### TKJ
-- [XI-TLJ-TKJ](https://docs.google.com/spreadsheets/d/1rlZb-g3Mtnjq-PmjsuhSqinC2Pitm94tf8x35N1zY8Q/edit?usp=sharing) (update 22-10-2020)
-- [XII-PKK-TKJ-AXIOO](https://docs.google.com/spreadsheets/d/1yJqimIvmkU8M4Zw2HJRHAB138Si34aU42UnG-Qv2qx8/edit?usp=sharing) (update 22-10-2020)
+- [XI-TLJ-TKJ](https://docs.google.com/spreadsheets/d/1rlZb-g3Mtnjq-PmjsuhSqinC2Pitm94tf8x35N1zY8Q/edit?usp=sharing) (22-10-2020)
+- [XII-PKK-TKJ-AXIOO](https://docs.google.com/spreadsheets/d/1yJqimIvmkU8M4Zw2HJRHAB138Si34aU42UnG-Qv2qx8/edit?usp=sharing) (22-10-2020)
