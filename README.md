@@ -16,7 +16,6 @@ Klik Tulisan Biru Untuk Melihat Nilai
 
 <hr>
 <hr>
-<hr>
 
 ## Teknik Komputer & Jaringan
 ### Kelas 11 TKJ
