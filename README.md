@@ -2,8 +2,9 @@
 
 *Klik Tulisan Biru Untuk Melihat Nilai*
 <hr>
+<hr>
 
-## Rekayasa Perangkat Lunak
+## A. Rekayasa Perangkat Lunak
 > ### Kelas 11 RPL
 > [Pemrograman Berorientasi Objek](https://docs.google.com/spreadsheets/d/1iKYczebi5EYg0PM3OGmuz3y3ZYG87QfnygyiSz2rNlc/edit?usp=sharing) 
 <br>[Update : 22-10-2020]
@@ -17,7 +18,7 @@
 <hr>
 <hr>
 
-## Teknik Komputer & Jaringan
+## B. Teknik Komputer & Jaringan
 > ### Kelas 11 TKJ
 > [Teknologi Layanan Jaringan](https://docs.google.com/spreadsheets/d/1rlZb-g3Mtnjq-PmjsuhSqinC2Pitm94tf8x35N1zY8Q/edit?usp=sharing) 
 <br>[Update : 22-10-2020]
