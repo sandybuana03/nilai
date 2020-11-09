@@ -1,6 +1,6 @@
-# Kumpulan Rekapan Nilai Siswa
+# Rekap Nilai Siswa
 
-Klik Tulisan Biru Untuk Melihat Nilai
+*Klik Tulisan Biru Untuk Melihat Nilai*
 <hr>
 
 ## Rekayasa Perangkat Lunak
