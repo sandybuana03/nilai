@@ -6,7 +6,6 @@
 
 ## Semester Ganjil Tahun Ajaran 2020 / 2021
 <hr>
-<hr>
 
 ## A. Rekayasa Perangkat Lunak
 > ### Kelas 11 RPL
