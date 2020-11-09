@@ -27,3 +27,5 @@ Klik Tulisan Biru Untuk Melihat Nilai
 ### Kelas 12 TKJ-AXIOO
 [Produk Kreatif & Kewirausahaan](https://docs.google.com/spreadsheets/d/1yJqimIvmkU8M4Zw2HJRHAB138Si34aU42UnG-Qv2qx8/edit?usp=sharing) 
 [Update : 22-10-2020]
+
+<hr>
